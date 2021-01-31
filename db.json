@@ -1,17 +1,22 @@
 {
-  "propertyType": "flat",
-  "bedrooms": 3,
-  "bathroom": 1,
-  "receptionroom": 1,
-  "offerType": "Offers over",
-  "price": 455000,
-  "address": {
-    "address_line_1": "Marylee Way",
-    "address_line_2": null,
-    "address_line_3": null,
-    "address_line_4": null,
-    "address_country": "London",
-    "postcode": "SE11"
-  },
-  "images": []
+  "property": [
+    {
+      "id": 1,
+      "propertyType": "flat",
+      "bedrooms": 3,
+      "bathroom": 1,
+      "receptionroom": 1,
+      "offerType": "Offers over",
+      "price": 455000,
+      "address": {
+        "address_line_1": "Marylee Way",
+        "address_line_2": null,
+        "address_line_3": null,
+        "address_line_4": null,
+        "address_country": "London",
+        "postcode": "SE11"
+      },
+      "images": []
+    }
+  ]
 }
